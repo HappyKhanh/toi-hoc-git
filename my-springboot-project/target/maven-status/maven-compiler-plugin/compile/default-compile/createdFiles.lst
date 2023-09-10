@@ -1,6 +1,0 @@
-me\myspringbootproject\repository\BookRepository.class
-me\myspringbootproject\service\BookService.class
-me\myspringbootproject\MySpringbootProjectApplication.class
-me\myspringbootproject\entity\Book.class
-me\myspringbootproject\dto\BookDTO.class
-me\myspringbootproject\controller\BookController.class
